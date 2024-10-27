@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Auiri
+- 👀 I’m interested in C and C++...
+- 🌱 I’m currently learning python...
+- ⚡ Fun fact: I never feel like this is for me, but this year is going to be the year...
+
+<!---
+Auiri/Auiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
