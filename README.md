@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Auiri
-- 👀 I’m interested in C and C++...
-- 🌱 I’m currently learning python...
-- ⚡ Fun fact: I never feel like this is for me, but this year is going to be the year...
+# 👋 Olá, eu sou Auiri Brito!
 
-<!---
-Auiri/Auiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Engenharia da Computação | UFMT**  
+💼 **Estagiário de Gestão e Análise de Indicadores e dados | Bradesco Empresas**  
+💻 **Tecnologia, Dados, Inteligência Artificial e Gestão de Projetos**
+
+Sou estudante de Engenharia da Computação e atualmente atuo no **Bradesco Empresas**, conciliando formação técnica com experiência em gestão e negócios.
+
+Ambição em construir soluções que conectem **tecnologia, dados e negócios**, especialmente em projetos envolvendo Inteligência Artificial, Machine Learning, análise de dados e desenvolvimento de software.
